@@ -1,6 +1,6 @@
 # To-do List App based on React
 
-This project are used to learn the basic concept of React and operation of Git and GitHub.
+This project are used to learn the basic concept of React and operation of Git / GitHub.
 
 Still in development.
 
